@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+.opening-box{
+    height: 1000px;
+    background: #24252A url("images/02.png");
+    font-family: 'Zen Dots', cursive;
+    color: white;
+}
+.opening-box h1{
+    position: absolute;
+    left: 100px;
+    top: 200px;
+    font-size: 40px;
+}
+.opening-box h5{
+    position: absolute;
+    left: 100px;
+    top: 275px;
+    padding-right: 100px;
+    padding-top: 10px;
+    font-size: 18px;
+}
